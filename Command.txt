@@ -1,0 +1,21 @@
+-Step one-
+git init
+touch MyFile.txt
+touch Command.txt
+git add MyFile.txt
+git status
+
+-step two-
+mkdir Info
+cd info
+touch InfoFile1
+touch InfoFile2
+cd ..
+git add Info
+git status
+
+-step three-
+git config --global user.name cgoddard_INFO
+git add Command.txt
+I believe adding to version control means that it I am adding it to the work branch, if not.. then I messed up this step
+
