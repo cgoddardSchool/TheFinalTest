@@ -19,3 +19,7 @@ git config --global user.name cgoddard_INFO
 git add Command.txt
 I believe adding to version control means that it I am adding it to the work branch, if not.. then I messed up this step
 
+-step four-
+git status
+I checked the status using git status and it shows you the stages that haven't been committed by showing the file MyFile.txt in red
+
